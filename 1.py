@@ -7,4 +7,4 @@ def asalSayi(n=1000000):
     return toplam
 
 
-print(asalSayi())
+print(asalSayi(1000000))
